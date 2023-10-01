@@ -22,7 +22,7 @@ Hey there! 👋 I'm Beck Vilas Boas, a passionate programmer who's been coding s
 
 ## Let's Connect
 
-📫 You can reach me at [email@example.com](mailto:beck.vilas@bulkvita.com) or call me (919)-454-7369
+📫 You can reach me at [beck.vilas@bulkvita.com](mailto:beck.vilas@bulkvita.com) or call me (919)-454-7369
 
 ## Get in Touch
 
