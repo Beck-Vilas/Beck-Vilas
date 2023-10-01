@@ -5,7 +5,7 @@
 <!-- Add a brief introduction -->
 Hey there! 👋 I'm Beck Vilas Boas, a passionate programmer who's been coding since birth (well, almost). I'm thrilled to share my journey with you!
 
-![Programming](https://cdn.pixabay.com/photo/2015/09/05/21/46/code-924920_960_720.jpg)
+![Programming](https://cdn.discordapp.com/attachments/1016488467322122383/1085725091763060736/bnbserverblur.png)
 
 ## About Me
 
