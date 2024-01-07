@@ -3,7 +3,7 @@
 #### Entrepreneur & Programmer | Born Oct 31, 2005
 
 <!-- Add a brief introduction -->
-Hey there! 👋 I'm Beck Vilas Boas, a passionate programmer who's been coding since birth (well, almost). I'm thrilled to share my journey with you!
+Hey there! 👋 I'm Beck Vilas Boas, a programmer who's been coding for a long time now and want to share some of my projects!
 
 ![Programming](https://cdn.discordapp.com/attachments/1016488467322122383/1085725091763060736/bnbserverblur.png)
 
